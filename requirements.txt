@@ -7,8 +7,7 @@ bcrypt>=3.2.0
 fpdf>=1.7.2
 Pillow>=9.2.0
 python-dotenv>=0.21.0
-sqlite3; python_version<'3.7'  # Only needed for Python <3.7, generally included in stdli
-base64 
+sqlite3; python_version<'3.7'  # Only needed for Python <3.7, generally included in stdli 
 io      
 json    
 urllib3>=1.26.0
