@@ -8,3 +8,4 @@ fpdf>=1.7.2
 Pillow>=9.2.0
 python-dotenv>=0.21.0     
 urllib3>=1.26.0
+cryptography==42.0.5
